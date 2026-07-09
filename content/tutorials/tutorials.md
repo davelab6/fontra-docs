@@ -72,6 +72,7 @@ Getting started
 ## Position **Anchors** (multi source editing)
 
 with the help of _Align and distribute objects_
+
 <video src="{{ site.url }}/videos/canvas-glyph-editor-anchor-position.mp4" controls="controls" style="width: 100%; max-width: 600px">
 </video>
 
